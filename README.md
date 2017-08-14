@@ -2,6 +2,8 @@
 
 This package provides a word (or letter) avatar which can be used with Ionic's `ion-avatar` instead of an image.
 
+![ion-text-avatar](https://raw.githubusercontent.com/Airblader/ionic-text-avatar/master/screenshot.png)
+
 ## Installation
 
 ```
@@ -52,10 +54,6 @@ After that, you can use `ion-text-avatar` within any occurence of `ion-avatar`. 
   <ion-label>Hello, World!</ion-label>
 </ion-chip>
 ```
-
-The above produces the following output. Please note that the exact colors depend on the theme of your application:
-
-![ion-text-avatar](https://raw.githubusercontent.com/Airblader/ionic-text-avatar/master/screenshot.png)
 
 ## Options
 
